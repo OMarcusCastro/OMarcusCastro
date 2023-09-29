@@ -8,7 +8,7 @@
  * 🚀 I work as Programming and Mathematics Professor
  * 🥇 First Teacher of programming in [Superprof](https://www.superprof.com.br/medalhista-olimpiadas-internacionais-robotica-aprenda-programacao-para-alcancar-seu-proximo-nivel-maneira-clara-eficiente.html) Brazil 
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
- * 🧠 My favorite fields are distributed systems, data strutuctures and IA algorithms
+ * 🧠 My favorite fields are API's Rest and Back-end programming with Python
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
 
  ### Work and Where to find me
