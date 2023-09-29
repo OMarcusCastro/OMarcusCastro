@@ -20,11 +20,11 @@
  <hr>
  
  <div style="align = center" >
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=OMarcusCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&hide_rank=true&hide=commits&custom_title=Stats"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OMarcusCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&hide_rank=true&hide=commits&custom_title=Stats"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMarcusCastro&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/> 
 
   <a href="github.com/OMarcusCastro">
-    <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=OMarcusCastro&theme=tokyonight&hide_border=true&fire=FF00E9"/>
+    <img height="250em" src="http://github-readme-streak-stats.herokuapp.com?user=OMarcusCastro&theme=tokyonight&hide_border=true&fire=FF00E9"/>
   </a>
   <a href="github.com/OMarcusCastro">
    <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=OMarcusCastro&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Commits%20Graph" alt="GitHub Commits Graph" /> 
