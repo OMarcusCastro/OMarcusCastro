@@ -10,7 +10,8 @@
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are API's Rest and Back-end programming with Python
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
- * 🗂️ Back-end creator of Adda e-commerce 
+ * 🗂️ Back-end creator of Adda e-commerce
+ * 🦾 Robotics, Math and programming competitor on National and International Olympiads
 
  ### Work and Where to find me
  
