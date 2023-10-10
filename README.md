@@ -20,7 +20,7 @@
  <hr>
  
  <div style="align = center" >
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OMarcusCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&hide_rank=true&hide=commits&custom_title=Stats"/>
+<!--    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OMarcusCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&hide_rank=true&hide=commits&custom_title=Stats"/> -->
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMarcusCastro&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=beecrowd-solutions&hide_border=true&hide=makefile"/> 
 
   <a href="github.com/OMarcusCastro">
