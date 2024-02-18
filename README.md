@@ -5,12 +5,12 @@
  ### About me
  
  * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
- * 🚀 I work as Programming and Mathematics Professor
- * 🥇 First Teacher of programming in [Superprof](https://www.superprof.com.br/medalhista-olimpiadas-internacionais-robotica-aprenda-programacao-para-alcancar-seu-proximo-nivel-maneira-clara-eficiente.html) Brazil 
+ * 🗂️ Back-end creator of Adda e-commerce
  * 🌱 I'm a programmer since I was 15 focused on competitive programming
  * 🧠 My favorite fields are API's Rest and Back-end programming with Python
+ * 🥇 First Teacher of programming in [Superprof](https://www.superprof.com.br/medalhista-olimpiadas-internacionais-robotica-aprenda-programacao-para-alcancar-seu-proximo-nivel-maneira-clara-eficiente.html) Brazil 
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
- * 🗂️ Back-end creator of Adda e-commerce
+ * 🚀 I work as Programming and Mathematics Professor
  * 🦾 Robotics, Math and programming competitor on National and International Olympiads
 
  ### Work and Where to find me
