@@ -16,6 +16,7 @@
  ### Work and Where to find me
  
  * Need to get in touch? [marcuscastro@profmarcuscatro.com](marcuscastro@profmarcuscatro.com) 
+ * [LinkedIn](https://www.linkedin.com/in/marcus-castroo/)
 
 
  
