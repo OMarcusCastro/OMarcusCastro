@@ -4,13 +4,14 @@
   
  ### About me
  
+ * 💻 Full-Stack Developer Pl at ArgoTech
  * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * 🗂️ Back-end creator of Adda e-commerce
- * 🌱 I'm a programmer since I was 15 focused on competitive programming
- * 🧠 My favorite fields are API's Rest and Back-end programming with Python
+ * 🌱 I'm a programmer since I was 15 focused on competitive programming than web development
+ * 🧠 My favorite fields are API's Rest and Back-end programming with Python and Java
  * 🥇 First Teacher of programming in [Superprof](https://www.superprof.com.br/medalhista-olimpiadas-internacionais-robotica-aprenda-programacao-para-alcancar-seu-proximo-nivel-maneira-clara-eficiente.html) Brazil 
  * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
- * 🚀 I work as Programming and Mathematics Professor
+ * 🚀 I work as Programming and Mathematics Teacher
  * 🦾 Robotics, Math and programming competitor on National and International Olympiads
 
  ### Work and Where to find me
