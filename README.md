@@ -15,7 +15,7 @@
 
  ### Work and Where to find me
  
- * Need to get in touch? [marcuscastro@profmarcuscatro.com](marcuscastro@profmarcuscatro.com) 
+ * Need to get in touch? [mailto:marcus.vmsc@gmail.com](marcus.vmsc@gmail.com) 
  * [LinkedIn](https://www.linkedin.com/in/marcus-castroo/)
 
 
