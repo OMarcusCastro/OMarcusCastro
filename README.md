@@ -47,6 +47,8 @@
     <tr>
       <td>
         <img align="center" alt="Hugo-Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+        <img align="center" alt="Hugo-Python" height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> 
+        <img align="center" alt="Hugo-Python" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> 
         <img align="center" alt="Hugo-JS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Hugo-CPP" height="32" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
       </td>
