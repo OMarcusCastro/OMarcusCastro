@@ -4,7 +4,7 @@
   
  ### About me
  
- * 💻 Full-Stack Developer Mid-level at ArgoTech
+ * 🟧 Back-end Developer at Itaú Unibank in Credit by Zup
  * 🌎 I'm based in Fortaleza, Brazil, and was born in Rio de Janeiro, Brazil
  * 🗂️ Back-end creator of Adda e-commerce
  * 🌱 I'm a programmer since I was 15 focused on competitive programming than web development
